@@ -2,6 +2,8 @@
 
 Task RESTful API
 
-Secure login and authentication for users
+Javascript, Node, MongoDB, Mongoose, and Express
+
+Secure login and authentication for users.
 Users can manage their task
 
